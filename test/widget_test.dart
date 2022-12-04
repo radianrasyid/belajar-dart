@@ -49,6 +49,6 @@ palindrome(test) {
       list.add("false");
     }
   }
-
+  print(list);
   return print(list.contains("true"));
 }
